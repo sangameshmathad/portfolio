@@ -6,8 +6,11 @@ Simple portfolio built using HTML and CSS only.
 
 ## Features
 
-It is very similar to a tempetlate as I have used dummy words in most of the places. 
-Which can be updated as and when required. 
+ A website, which has projects and contact info on display.
+ -Responsive
+ -Hover animation
+ -Form
+
 
 
 ## 🚀 About Me
